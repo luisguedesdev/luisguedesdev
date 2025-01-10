@@ -1,4 +1,4 @@
-## Olá eu sou CG DEV
+## Olá eu sou o Luis 
 ### Estou recomeçando este perfil com alguns trabalhos que tenho feito durante a minha carreira como desenvolvedor.
 <div align="center">
   <a href="https://github.com/luisgcostaguedes">
