@@ -19,7 +19,7 @@ jobs:
           github_user_name: luisguedesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          args: "--palette=[\"#161B22\", \"#0e4429\", \"#006d32\", \"#26a641\", \"#39d353\"]"
+          args: --palette=#161B22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Commit e push do arquivo
         uses: EndBug/add-and-commit@v9
