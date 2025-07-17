@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite UTC
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -19,7 +19,7 @@ jobs:
           github_user_name: luisguedesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          args: "--output=dist/github-contribution-grid-snake.svg --palette=#161B22,#0e4429,#006d32,#26a641,#39d353"
+          args: "--output=dist/github-contribution-grid-snake.svg --palette=#161B22,#0e4429,#006d32,#26a641,#39d353 --timestamp=${{ github.run_id }}"
 
       - name: Commit e push do arquivo
         uses: EndBug/add-and-commit@v9
