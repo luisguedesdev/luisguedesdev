@@ -73,5 +73,5 @@ Sou **graduado em Engenharia de Computação** e desenvolvedor de software apaix
 ## 🐍 Snake de Contribuições
 
 <div align="center">
-  <img src="https://github.com/luisguedesdev/luisguedesdev/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/luisguedesdev/luisguedesdev/main/dist/github-contribution-grid-snake.svg" />
 </div>
