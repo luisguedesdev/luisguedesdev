@@ -27,4 +27,4 @@ jobs:
           author_name: GitHub Action
           author_email: action@github.com
           message: "Atualizando o Snake 🐍"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "dist/*"
