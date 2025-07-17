@@ -19,6 +19,7 @@ jobs:
           github_user_name: luisguedesdev
           outputs: |
             dist/github-contribution-grid-snake.svg
+          palette: "github-dark"
 
       - name: Commit e push do arquivo
         uses: EndBug/add-and-commit@v9
