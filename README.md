@@ -1,7 +1,8 @@
-<!-- Banner animado com typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+Luis+Guedes!;Desenvolvedor+Full+Stack+💻;Especialista+em+Tecnologia+e+Inovação!&center=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+Luis+Guedes!;Desenvolvedor+Full+Stack;&center=true&size=22" />
 </p>
+
+
 
 <!-- Badge de visitante -->
 <p align="center">
